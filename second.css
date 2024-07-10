@@ -102,7 +102,7 @@
 }
 
 .main-div {
-    margin-bottom: 90px;
+    margin-bottom: 70px;
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -110,6 +110,8 @@
     margin-bottom: 32px;
     border-radius: 16px;
     background: linear-gradient(270.00deg, rgb(255, 255, 255), rgba(255, 255, 255, 0) 100%);
+    width: 946px;
+    height: 336px;
 }
 
 .section-header {
@@ -175,7 +177,8 @@
 .chobijhamela {
     display: flex;
     justify-content: space-between;
-    margin-right: 32px;
+    margin-right: 30px;
+    margin-bottom: 10px;
 
 }
 
@@ -210,29 +213,32 @@
     letter-spacing: 0%;
     text-align: center;
 }
-.newcontent{
+
+.newcontent {
     width: 852px;
     height: 115px;
     margin: 0 auto;
     margin-bottom: 48px;
 }
-.video{
-box-sizing: border-box;
-border: 1px solid rgba(13, 19, 33, 0.2);
-border-radius: 16px;
-width: 1140px;
-height: 604px;
-margin: 48px auto;
+
+.video {
+    box-sizing: border-box;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    width: 1140px;
+    height: 604px;
+    margin: 48px auto;
 
 }
-.videocontent{
+
+.videocontent {
     width: 1110px;
-height: 777px;
-margin: 0px auto;
-display: flex;
-flex-direction: column;
-align-items: center;
-margin-bottom: 131px;
+    height: 777px;
+    margin: 0px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 131px;
 }
 /* video section complete */
 /* Target section start */
@@ -266,9 +272,7 @@ margin-bottom: 131px;
     margin-bottom: 52px;
 
 }
-
 .parahead {
-
 
     margin: 0 auto;
 }
@@ -395,18 +399,19 @@ margin-bottom: 131px;
 /* Image section finished */
 /* Footer section start here */
 
-.footer{
+.footer {
     width: 1440px;
-height: 100px;
-border-radius: 16px;
-display: flex;
-justify-content:space-around;
-flex-direction: row;
-align-items: center;
+    height: 100px;
+    border-radius: 16px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
 
-background: rgba(13, 19, 33, 0.03);
+    background: rgba(13, 19, 33, 0.03);
 }
-.listpn{
+
+.listpn {
     display: flex;
     justify-content: right;
     /* align-items: center; */
@@ -414,12 +419,13 @@ background: rgba(13, 19, 33, 0.03);
     list-style-type: none;
     gap: 12px;
 }
-.lasth{
+
+.lasth {
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
-font-size: 20px;
-font-weight: 600;
-line-height: 23px;
-letter-spacing: 0%;
-text-align: center;
+    font-family: Azeret Mono;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: center;
 }
