@@ -156,7 +156,7 @@
     letter-spacing: 0%;
     text-align: center;
     padding: 10px 20px 10px 20px;
-    cursor: pointer;
+    
 }
 
 .picturesection {
@@ -193,7 +193,7 @@
 .contentt {
     margin-top: 48px;
     margin-bottom: 48px;
-    width: 850px;
+    width: 860px;
     height: 240px;
 }
 /* prothom section sesh */
@@ -329,6 +329,7 @@
     letter-spacing: 0%;
     text-align: left;
     text-decoration-line: underline;
+    cursor:pointer;
 }
 /* Target item finish */
 /* image section start */
